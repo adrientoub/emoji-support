@@ -14,6 +14,7 @@ using 😇 = 😄;
 
 int main()
 {
+  auto literal = U'😓';
   int 😃 = 4;
   😇 😓;
   std::cout << 😃 << std::endl;
