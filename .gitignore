@@ -2,3 +2,4 @@ c11/main
 c99/main
 c++03/main
 c++11/main
+*.class
